@@ -223,4 +223,17 @@ margin:0;
 .copy-right {
 	font-size: 17px;
 	color: #666;
+
+}
+
+
+
+.logoDashy {
+	height: 60px;
+    width: 100%;
+    object-fit: contain;
+    position: relative;
+    z-index: 2000;
+	filter: drop-shadow(0 0 20px rgba(255,46,99,0.5))
+            drop-shadow(0 0 40px rgba(134,43,226,0.9));
 }
